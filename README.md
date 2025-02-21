@@ -9,8 +9,11 @@
 - 🚀 Web Development (HTML, CSS, JS, Angular)  
 
 ## 📫 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/henrydev)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/henry)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Rylean)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/henry.lee.a)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/USERNAME)  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@henryleealvian)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/c/@imRylean)  
 
-![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henrydev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrydev&layout=compact&theme=radical)
+
+![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rylean&show_icons=true&theme=radical)
