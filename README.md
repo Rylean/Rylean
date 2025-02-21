@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Henry!  
+👋 Hi, I'm Henry Lee Alvian!  
 💻 Passionate about UI/UX & Software Testing  
 🎮 Love playing Game Honkai: Star Rail & Seven Deadly Sins: Grand Cross  
 🔥 Interested in game modding & web development 
 
-## 🌟 Skills  
+🌟 Skills  
 - 🎨 Editing (Canva)  
 - 🛠️ Software Testing & Automation  
 - 🚀 Web Development (HTML, CSS, JS, Angular)  
 
-## 📫 Connect with Me  
+📫 Connect with Me  
 <p align="left">
   <a href="https://github.com/Rylean">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </p>
 
-
+📈 Github Stats
 ![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rylean&show_icons=true&theme=radical)
 
 ## 🕹 Play My GitHub Profile Game!
