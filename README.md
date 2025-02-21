@@ -25,9 +25,8 @@
   <a href="https://youtube.com/c/@imRylean">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-   <a href="mailto:ceenkwank@gmail.com">
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ceenkwank@gmail.com&su=Subject%20Here&body=Hello%20Henry!">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 
