@@ -18,6 +18,5 @@
 ![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rylean&show_icons=true&theme=radical)
 
 ## 🕹 Play My GitHub Profile Game!
-Klik link di bawah untuk main game lari & loncat langsung di profil saya!  
-[🎮 Play Now](https://rylean.github.io/TicTacToe-Game/)
+Tic Tac Toe Browser Game > [🎮 Play Now](https://rylean.github.io/TicTacToe-Game/)
 
