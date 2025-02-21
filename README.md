@@ -1,18 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Henry!  
+💻 Passionate about UI/UX & Software Testing  
+🎮 Love playing Game Honkai: Star Rail & Seven Deadly Sins: Grand Cross  
+🔥 Interested in game modding & web development 
 
-<!--
-**Rylean/Rylean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Skills  
+- 🎨 Editing (Canva)  
+- 🛠️ Software Testing & Automation  
+- 🚀 Web Development (HTML, CSS, JS, Angular)  
 
-Here are some ideas to get you started:
+## 📫 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/henrydev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/henry)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henrydev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrydev&layout=compact&theme=radical)
