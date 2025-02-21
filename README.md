@@ -15,5 +15,9 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://tiktok.com/@henryleealvian)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/c/@imRylean)  
 
-
 ![Henry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rylean&show_icons=true&theme=radical)
+
+## 🕹 Play My GitHub Profile Game!
+Klik link di bawah untuk main game lari & loncat langsung di profil saya!  
+[🎮 Play Now](https://USERNAME.github.io/github-profile-game/)
+
