@@ -19,5 +19,5 @@
 
 ## 🕹 Play My GitHub Profile Game!
 Klik link di bawah untuk main game lari & loncat langsung di profil saya!  
-[🎮 Play Now](https://USERNAME.github.io/github-profile-game/)
+[🎮 Play Now](https://rylean.github.io/github-profile-game/)
 
